@@ -24,6 +24,10 @@
     - [Refactoring - Breaking Our Tests][]
     - [Refactoring - Fixing Our Tests][]
     - [Setting Up Each Spec][]
+    - [Jasmine Calculator Example/ Test - Result][]
+    - Jasmine Challenges
+        - [Drink About - Result][]
+        - [FizzBuzz - Result][]
 
 
 
@@ -36,3 +40,6 @@
 [Refactoring - Breaking Our Tests]: https://youtu.be/hjQQhv3D558
 [Refactoring - Fixing Our Tests]: https://youtu.be/MoGk-3Hwl80
 [Setting Up Each Spec]: https://youtu.be/t7wqjeuxVVs
+[Jasmine Calculator Example/ Test - Result]: https://codeinstitute-davidhubber.github.io/Interactive-Frontend-Development-jasmine-testing/calculator.html
+[Drink About - Result]: https://codeinstitute-davidhubber.github.io/Interactive-Frontend-Development-jasmine-testing/drinkAbout.html
+[FizzBuzz - Result]: https://codeinstitute-davidhubber.github.io/Interactive-Frontend-Development-jasmine-testing/fizzBuzzGame.html
